@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>HOLOflash requires no special permissions.</string>
+		</dict>
+		<key>HasRemovalPasscode</key>
+		<false />
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FullScreen</key>
+				<true />
+				<key>Icon</key>
+				<data>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAA8AAD/4QMraHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQxMTExQkI0MUZBNzExRUM5OUZCRjNDMDY2RjhBQTFBIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjQxMTExQkIzMUZBNzExRUM5OUZCRjNDMDY2RjhBQTFBIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5kaWQ6MENGQTY5MzA4NzFGRUMxMUFBNjM5Mjg5RTNENEYyREMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MENGQTY5MzA4NzFGRUMxMUFBNjM5Mjg5RTNENEYyREMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAGBAQEBQQGBQUGCQYFBgkLCAYG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</data>
+				<key>IsRemovable</key>
+				<true />
+				<key>Label</key>
+				<string>HOLOflash</string>
+				<key>PayloadDescription</key>
+				<string>Configures settings for a web clip</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Clip</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webClip.managed.188FD882-4164-41CD-AEC2-D00D1AEA5324</string>
+				<key>PayloadType</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadUUID</key>
+				<string>6f360044-a3f6-4519-871f-e7f995931c8a</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>Precomposed</key>
+				<true />
+				<key>URL</key>
+				<string>https://www.verifysq.com/?appname=HOLOflash&amp;img=https://res.cloudinary.com/dhbejijc4/image/upload/v1656495718/NOXA/APPS/HOLOflash_cescsq.jpg&amp;aff_sub4=HOLOflash&amp;aff_sub5=1</string>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>HOLOflash requires no special permissions.</string>
+		<key>PayloadDisplayName</key>
+		<string>HOLOflash</string>
+		<key>PayloadIdentifier</key>
+		<string>HOLOflash.Noxo.app</string>
+		<key>PayloadOrganization</key>
+		<string>Noxo</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>7089c5ac-b853-46fe-a722-414ec4f926e3</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
